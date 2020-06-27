@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Retail Store Survey</string>
+    <string name="logo_description">Logo countries</string>
+    <string name="welcome_eng">RATE THE QUALITY OF SERVICE</string>
+    <string name="welcome_ukr">ОЦЕНИТЕ ЯКIСТЬ ОБСЛУГОВУВАННЯ </string>
+    <string name="welcome_rus">ОЦЕНИТЕ КАЧЕСТВО ОБСЛУЖИВАНИЯ </string>
+    <string name="welcome_rom">VALOARE CALITATEA SERVICIULUI </string>
+    <string name="welcome_arm">ՎԱԱՌՔ ԾԱՌԱՅՈՒԹՅԱՆ ՈՐԱԿԸ </string>
+    <string name="btn_lang_eng">Please choose your language: English</string>
+    <string name="btn_lang_ukr">Виберіть свою мову: українську</string>
+    <string name="btn_lang_rus">Пожалуйста, выберите ваш язык: русский</string>
+    <string name="btn_lang_rom">Vă rugăm să alegeți limba dvs.: română</string>
+    <string name="btn_lang_arm">Խնդրում ենք ընտրել ձեր լեզուն ՝ հայերեն</string>
+</resources>
